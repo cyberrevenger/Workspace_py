@@ -1,0 +1,5 @@
+------------------------------------
+E:\MyPlace\MyProjects\Experimental\PyDev\Workspace_py\PrintDirTree\src
+------------------------------------
+filenamelist.txt
+main.py
